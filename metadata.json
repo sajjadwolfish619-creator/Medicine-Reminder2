@@ -1,0 +1,6 @@
+{
+  "name": "Medicine Reminder",
+  "description": "Professional medicine reminder and medication schedule tracker with dosage alarms, intake history, multiple profiles, and bilingual Persian/English support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
